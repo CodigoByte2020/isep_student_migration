@@ -8,7 +8,7 @@
             <xpath expr="//field[@name='company_id']" position="after">
                 <field name="coordinator"/>
                 <field name="campus_id"/>
-                <field name="uvic_program" widget="boolean_toggle"/>
+<!--                <field name="uvic_program" widget="boolean_toggle"/>-->
                 <field name="modality_id"/>
                 <field name="students_limit"/>
                 <field name="sepyc_program" widget="boolean_toggle"/>

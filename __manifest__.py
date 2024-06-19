@@ -20,7 +20,7 @@
         'views/op_course_views.xml',
         'views/op_modality_views.xml',
         'views/op_campus_views.xml',
-        'views/op_practices_type_views.xml',
+        # 'views/op_practices_type_views.xml',
         'views/op_batch_views.xml'
     ],
     'installable': True,
